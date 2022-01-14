@@ -21,13 +21,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rinafb.github.io/research/</guid>
-      <description>Publications &amp;amp; preprints   Black box tests for algorithmic stability.
+      <description>Publications &amp;amp; preprints   Half-trek criterion for identifiability of latent variable models.
+Rina Foygel Barber, Mathias Drton, Nils Sturma, and Luca Weihs. arXiv:2201.04457
+  Black box tests for algorithmic stability.
 Byol Kim and Rina Foygel Barber. arXiv:2111.15546
   Enhancement-Constrained Acceleration: A Robust Reconstruction Framework in Breast DCE-MRI. (Code.)
 Ty Easley, Zhen Ren, Byol Kim, Gregory Karczmar, Rina Foygel Barber, Federico D Pineda. PLoS ONE 16(10): e0258621.
-  Binary classification with corrupted labels.
-Yonghoon Lee and Rina Foygel Barber. arXiv:2106.09136
-  Distribution-free inference for regression: discrete, continuous, and in between.</description>
+  Binary classification with corrupted labels.</description>
     </item>
     
     <item>
