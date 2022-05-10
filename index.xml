@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rinafb.github.io/group/</guid>
-      <description>Page under construction</description>
+      <description>Group members  Zhimei Ren, postdoctoral scholar Yonghoon Lee, PhD student Wanrong Zhu, PhD student (co-advised with Wei-Biao Wu) Yu Gui, PhD student Rohan Hore, PhD student Young-Joo Yun, MS student Qiqi Liu, MS student Heming Liu, MS student Xiaomeng Wang, BA/MS student  PhD alumni  Ang Li (2017), Data Scientist, Twitter Wooseok Ha (2018), Postdoctoral Scholar, Foundations of Data Analysis Institute, University of California, Berkeley Fan Yang (2019), Junior Quantitative Researcher, Akuna Ran Dai (2020), Assistant Professor, Department of Biostatistics, University of Nebraska Medical Center Haoyang Liu (2020), Hudson River Trading Byol Kim (2021), Postdoctoral Scholar, Department of Statistics, University of Washington  Information for prospective students I typically advise one PhD student per year and several Master&amp;rsquo;s students per year.</description>
     </item>
     
     <item>
@@ -21,12 +21,12 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rinafb.github.io/research/</guid>
-      <description>Publications &amp;amp; preprints   Black box tests for algorithmic stability.
+      <description>Publications &amp;amp; preprints (organized by topic)  Distribution-free inference   Training-conditional coverage for distribution-free predictive inference. (Code.)
+Michael Bian and Rina Foygel Barber. arXiv:2205.03647
+  Conformal prediction beyond exchangeability. (Code; Slides.)
+Rina Foygel Barber, Emmanuel J. Candès, Aaditya Ramdas, and Ryan Tibshirani. arXiv:2202.13415
+  Black box tests for algorithmic stability.
 Byol Kim and Rina Foygel Barber. arXiv:2111.15546
-  Enhancement-Constrained Acceleration: A Robust Reconstruction Framework in Breast DCE-MRI. (Code.)
-Ty Easley, Zhen Ren, Byol Kim, Gregory Karczmar, Rina Foygel Barber, Federico D Pineda. PLoS ONE 16(10): e0258621.
-  Binary classification with corrupted labels.
-Yonghoon Lee and Rina Foygel Barber. arXiv:2106.09136
   Distribution-free inference for regression: discrete, continuous, and in between.</description>
     </item>
     
