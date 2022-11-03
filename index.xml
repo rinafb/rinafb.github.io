@@ -21,13 +21,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rinafb.github.io/research/</guid>
-      <description>Publications &amp;amp; preprints (organized by topic)  Distribution-free inference   Training-conditional coverage for distribution-free predictive inference. (Code.)
+      <description>Publications &amp;amp; preprints (organized by topic)  Distribution-free inference   Conformalized survival analysis with adaptive cutoffs.
+Yu Gui, Rohan Hore, Zhimei Ren, and Rina Foygel Barber. arxiv:2211:01227
+  Training-conditional coverage for distribution-free predictive inference. (Code.)
 Michael Bian and Rina Foygel Barber. arXiv:2205.03647
   Conformal prediction beyond exchangeability. (Code; Slides.)
 Rina Foygel Barber, Emmanuel J. Candès, Aaditya Ramdas, and Ryan Tibshirani. arXiv:2202.13415
-  Black box tests for algorithmic stability.
-Byol Kim and Rina Foygel Barber. arXiv:2111.15546
-  Distribution-free inference for regression: discrete, continuous, and in between.</description>
+  Black box tests for algorithmic stability.</description>
     </item>
     
     <item>
@@ -44,13 +44,25 @@ Half-trek criterion for generic identifiability of linear structural equation mo
     </item>
     
     <item>
+      <title>Talks</title>
+      <link>https://rinafb.github.io/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://rinafb.github.io/talks/</guid>
+      <description>Selected seminars &amp;amp; presentations   Distribution-free inference tutorial Part 1, Part 2 (At the IFDS 2021 Summer School)
+  Distribution-free prediction: exchangeability and beyond (IMS Medallion Lecture 2022)
+  Is distribution-free inference possible for binary regression? (At the International Seminar on Selective Inference)
+  </description>
+    </item>
+    
+    <item>
       <title>Teaching</title>
       <link>https://rinafb.github.io/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://rinafb.github.io/teaching/</guid>
       <description>All course websites are on Canvas.
-Current courses  Stat 24400: Statistical Theory and Methods I (Autumn 2021). Syllabus. Stat 34300: Applied Linear Statistical Methods (Autumn 2021). Syllabus. Stat 27850/30850: Multiple Testing, Modern Inference, and Replicability (Winter 2022). Syllabus.  Past courses  Stat 41520: Topics in Selective Inference (Autumn 2020), co-taught with Will Fithian (UC Berkeley).
+Current courses  Stat 34300: Applied Linear Statistical Methods (Autumn 2022). Syllabus. Stat 27850/30850: Multiple Testing, Modern Inference, and Replicability (Winter 2023). Last year&amp;rsquo;s syllabus.  Past courses  Stat 24400: Statistical Theory and Methods I (most recently taught Autumn 2021). Syllabus. Stat 41520: Topics in Selective Inference (most recently taught Autumn 2020), co-taught with Will Fithian (UC Berkeley).
 Course website.  </description>
     </item>
     
